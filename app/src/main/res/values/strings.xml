@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnePageTest</string>
+    <string name="api_key">api key</string>
+    <string name="user_id">user id</string>
+    <string name="login">login</string>
+    <string name="see_more">See more</string>
+    <string name="see_less">See less</string>
+</resources>

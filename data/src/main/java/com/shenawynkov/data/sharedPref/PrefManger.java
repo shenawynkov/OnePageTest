@@ -37,7 +37,7 @@ public class PrefManger {
     }
 
     public Boolean isUserLoggedIn() {
-        return getUserId() != null && getApiKey() != null;
+        return (!getUserId().isEmpty() && !getApiKey().isEmpty());
 
     }
 

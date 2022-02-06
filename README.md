@@ -1,6 +1,4 @@
 # OnePageTest
-
-# OnePageTest
 used rxjava because i can't use courotines in java 
 tested viewmodel and some parts of the repo 
 
